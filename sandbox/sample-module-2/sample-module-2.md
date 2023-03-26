@@ -11,10 +11,12 @@ This sample module is simple python code in the words.py file. That includes
 
 # Import square
 >>> import square
+25
 square
 
 # Execute square
->>> square.py
-__main__
+python3 square.py
 25
+__main__
+
 ```
